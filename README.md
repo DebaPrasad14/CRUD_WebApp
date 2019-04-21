@@ -13,10 +13,9 @@ The main Idea of this application is to do CRUD Operaion with Employee Data.
 - After project completed, when we go on adding new details of employees/records then output will come as below.
   with the below mentioned actions we can perform CREATE/ ADD, RETRIEVE/SHOW , UPDATE AND DELETE Operations.
 
-Employee ID	  Employee Name	  Employee Email	  Employee Contact	  Actions
-100	          kumar p	      kumarp@gmail.com	    9090732435	      Edit Delete
-105	          Taimur k	    taimur11@outlook.com	9091256355	      Edit Delete
-107	          Virat kohli	  viratk@gmail.com	    986504156	        Edit Delete
-103	          Ankur J	      j.ankur@gmail.com	    8765004227	      Edit Delete
-
-                                                                                Add New Record
+Employee ID	  Employee Name	  Employee Email	  Employee Contact	  Actions                                                               
+100	          kumar p	      kumarp@gmail.com	    9090732435	      Edit Delete                                                           
+105	          Taimur k	    taimur11@outlook.com	9091256355	      Edit Delete                                                           
+107	          Virat kohli	  viratk@gmail.com	    986504156	        Edit Delete                                                           
+103	          Ankur J	      j.ankur@gmail.com	    8765004227	      Edit Delete                                                           
+                                                                                                                                                                                                                           Add New Record
